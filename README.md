@@ -1,17 +1,17 @@
 ![Header](gambar/github-header-banner.png)
 
-<div align="center">
+<div align="Center">
   <h1>👋 Hai, Saya Hayzar Muhaiyar!</h1>
-  <p>Web Developer | Mobile Developer</p>
+  <p>Web Developer | UI/UX</p>
 </div>
 
 
 ## 🧐 About Me
-🔭 Currently working on: A cross-platform Mobile App Project that blends clean UI with smooth functionality.
-🌱 Currently learning: Flutter and React Native to build powerful and responsive mobile experiences.
-💬 Ask me about: Web Development, Mobile Apps, or anything related to front-end and back-end integration.
-📫 Reach me at: Hayzarmuhaiyar@email.com
-⚡ Fun fact: I’m most productive at midnight, with a cup of coffee and some lo-fi beats ☕🎧
+- 🔭 Currently working on: A cross-platform Mobile App Project that blends clean UI with smooth functionality.
+- 🌱 Currently learning: Flutter and React Native to build powerful and responsive mobile experiences.
+- 💬 Ask me about: Web Development, Mobile Apps, or anything related to front-end and back-end integration.
+- 📫 Reach me at: Hayzarmuhaiyar@email.com
+- ⚡ Fun fact: I’m most productive at midnight, with a cup of coffee and some lo-fi beats ☕🎧
 
 ### My Skills
 <p float="left">
@@ -71,11 +71,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
