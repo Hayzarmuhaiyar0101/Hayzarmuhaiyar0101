@@ -66,11 +66,9 @@
 
 ## 🎮 Play Game With Me 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/snake.svg" alt="Snake animation" />
 </picture>
-
+    
 
 
 
