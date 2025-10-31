@@ -64,6 +64,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Hayzarmuhaiyar0101&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayzarmuhaiyar0101&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🎮 Play Game With Me 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg">
