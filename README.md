@@ -22,8 +22,22 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Hayzarmuhaiyar0101&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayzarmuhaiyar0101&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hayzarmuhaiyar0101&limit=5&theme=react&combine_all_yearly_contributions=true)
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Hayzarmuhaiyar0101&limit=5&theme=react&combine_all_yearly_contributions=true)](https://github.com/Hayzarmuhaiyar0101?tab=repositories)
+
+### 🧩 Repositories
+| No | Repository | Link |
+|----|-------------|------|
+| 1 | **Hayzarmuhaiyar0101.github.io** | [🔗 View Repo](https://github.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101.github.io) |
+| 2 | **Website-ipa5** | [🔗 View Repo](https://github.com/Hayzarmuhaiyar0101/Website-ipa5) |
+| 3 | **web-lanjut-2024573010100** | [🔗 View Repo](https://github.com/Hayzarmuhaiyar0101/web-lanjut-2024573010100) |
+| 4 | **Hayzarmuhaiyar0101** | [🔗 View Repo](https://github.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101) |
+| 5 | **muhdavi-pnl.github.io** | [🔗 View Repo](https://github.com/muhdavi-pnl/muhdavi-pnl.github.io) |
+
+> 🌟 *Klik pada gambar di atas untuk melihat semua repositori kontribusimu di GitHub!*
+
+
 
 ## 🎮 Play Game With Me 
 <picture>
