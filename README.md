@@ -9,11 +9,7 @@
 - 🔭 I'm an Informatics Engineering student at Lhokseumawe State Polytechnic
 - 🌱 Currently studying: Creating Websites Using the Laravel Framework & React
 - 📫 Contact me at: Hayzarmuhaiyar@email.com
-- ⚡ Fun fact: I'm most productive in the middle of the night, with a cup of coffee and lo-fi music ☕🎧
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-</div>
+- ⚡ Fun fact: I'm most productive in the middle of the night, with a cup of coffee and lo-fi music ☕🎧 
 
 ###
 
@@ -36,33 +32,9 @@
 
 ## 🎮 Play Game With Me
 
-<div align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph-dark.svg"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg"
-    />
-    <img 
-      alt="Pac-Man Contribution Graph" 
-      src="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg"
-      width="800"
-      style="max-width: 100%; border-radius: 12px;"
-    />
-  </picture>
-</div>
+<img src="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/snake.svg" alt="Snake animation" />
 
-> 🕹️ *Pac-Man is eating your GitHub contributions!*
-
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hayzarmuhaiyar0101/Hayzarmuhaiyar0101/output/pacman-contribution-graph.svg">
-</picture> -->
+> 🕹️ *Snake is eating your GitHub contributions!*
 
     
 
