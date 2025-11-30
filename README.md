@@ -30,7 +30,7 @@
 ## 🔝 Top Contributed Repo
 [![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Hayzarmuhaiyar0101&limit=5&theme=react&combine_all_yearly_contributions=true)](https://github.com/Hayzarmuhaiyar0101?tab=repositories)
 
-> 🌟 *Klik pada gambar di atas untuk melihat semua repositori kontribusimu di GitHub!*
+> 🌟 *Klik pada gambar di atas untuk melihat semua repositori kontribusi saya di GitHub!*
 
 ## 🎮 Play Game With Me
 
